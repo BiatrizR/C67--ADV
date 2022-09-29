@@ -1,3 +1,8 @@
+#Objetivos
+ - estilizar de acordo com o exemplo mostrado em aula
+ - adicionar carousel com bootstrap
+ 
+ 
 ## responsive project
 
 - First link :
